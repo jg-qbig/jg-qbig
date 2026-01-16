@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Computational Linguistics grad, mostly into NLP and language models
-
-- 🤖 Currently getting hands-on with building LLMs, RAG systems, and generative AI
-
-- 🧠 Like digging into how models behave (reranking, evaluation, prompt tweaks, error analysis) and how they compare to humans
-
 - 🛠️ Mostly coding in Python for ~6 years
-
-- 🤝 Big fan of learning by doing and working on things together with other people
+- 🤖 Currently getting hands-on with building LLMs, RAG systems, and generative AI
+- 🧠 Like digging into how models actually behave (reranking, evaluation, prompt tweaks, error analysis)
+- 🤝 Big fan of learning about new technologies and modern AI frameworks
