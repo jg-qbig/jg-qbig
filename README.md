@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Computational Linguistics grad, mostly into NLP and language models
-- 🛠️ Mostly coding in Python for ~6 years
+- 🛠️ Coding in Python for ~6 years
 - 🤖 Currently getting hands-on with building LLMs, RAG systems, and generative AI
 - 🧠 Like digging into how models actually behave (reranking, evaluation, prompt tweaks, error analysis)
 - 🤝 Big fan of learning about new technologies and modern AI frameworks
